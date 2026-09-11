@@ -1,4 +1,4 @@
-’ه## Trained Model and Training Files
+## Trained Model and Training Files
 
 The fine-tuned mT5 model, tokenizer, checkpoints, and training logs are available on [Google Drive](https://drive.google.com/drive/folders/1pAEmqCBCRduE4DP207EFtolzdvPzW70t?usp=drive_link).
 
